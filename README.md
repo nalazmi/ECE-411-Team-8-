@@ -1,2 +1,2 @@
-# ECE-411-Team-8-
+# Smart-Air-Quality-Monitoring:
 team 8 project 
